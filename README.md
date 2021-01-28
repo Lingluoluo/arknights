@@ -11,4 +11,4 @@ githubpages版本:https://lingluoluo.github.io/arknights/
 githubpages版本基本废弃，玄学bug太多了，一会能访问一会又不行。有大佬知道怎么解决吗(瘫)  
 另求舟游的高清资源贴图，图片太糊游戏体验极差  
 本资源遵循CC 署名─非商业性使用─相同方式共享原则  
-[![y9bpy8.png](https://s3.ax1x.com/2021/01/28/y9bpy8.png)](https://imgchr.com/i/y9bpy8)
+[![y9bpy8.png](https://s3.ax1x.com/2021/01/28/y9bpy8.png)]
