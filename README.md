@@ -10,9 +10,8 @@ CHINESE VER.
 githubpages版本:https://lingluoluo.github.io/arknights/HAIMAO/  
 
 合成夕酱:  
-个人渣服务器版(带作弊):http://arknights.yuluoluo.top:23333/   
-安卓apk版本:https://pan.baidu.com/s/1JDRebIFUeKfJkZ2P6QK9kA 提取码:367r  
-或 https://github.com/Lingluoluo/arknights/releases/  
+个人渣服务器版(带作弊):http://arknights.yuluoluo.top:23333/xi   
+安卓apk版本：https://github.com/Lingluoluo/arknights/releases/  
 githubpages版本:https://lingluoluo.github.io/arknights/XI/  
   
 2.9更新了一下最近海猫的36888图/修正了部分低清贴图/将最后的音效由mission accomplished改为damedane（本来想改成av971454479，去找哈老板要授权没理我x（瘫））/加了个合成夕酱  
