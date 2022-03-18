@@ -1,7 +1,7 @@
 # arknights  
 CHINESE VER.  
 合成海猫酱和合成夕酱的源码(带作弊版本)  
-可以自行git下来部署到自己服务器上  
+可以自行部署到自己服务器上  
   
 目前可以游玩的链接:  
 合成海猫酱:  
@@ -24,5 +24,5 @@ githubpages版本会有玄学bug，可能会出现打不开的情况x(瘫)
   
 ENGLISH VER.  
 COMMING SOON  
-  
+没人看了 鸽了
 
